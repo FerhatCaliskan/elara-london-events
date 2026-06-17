@@ -64,19 +64,19 @@
       "title": "Trusted by Those Who Expect the Best",
       "items": [
         {
-          "quote": "Working with Elara was effortless. They transformed our annual gala into an evening our entire team still talks about. Every element was considered, refined, and perfectly executed.",
+          "quote": "Working with Londrada Organizasyon was effortless. They transformed our annual gala into an evening our entire team still talks about. Every element was considered, refined, and perfectly executed.",
           "name": "Sarah Mitchell",
           "role": "Head of Corporate Affairs",
           "company": "Barclays London"
         },
         {
-          "quote": "From the first consultation to the final toast, every moment felt considered. Elara gave us the London wedding we had always imagined — and then some.",
+          "quote": "From the first consultation to the final toast, every moment felt considered. Londrada Organizasyon gave us the London wedding we had always imagined — and then some.",
           "name": "James & Priya Nair",
           "role": "Private Clients",
           "company": "Mumbai & London"
         },
         {
-          "quote": "As an incentive travel organiser, I have worked with DMCs around the world. Elara stands in a league of their own. Their local knowledge and attention to detail are unmatched.",
+          "quote": "As an incentive travel organiser, I have worked with DMCs around the world. Londrada Organizasyon stands in a league of their own. Their local knowledge and attention to detail are unmatched.",
           "name": "Marcus Weber",
           "role": "Senior Event Producer",
           "company": "Koenig & Partner GmbH"
@@ -162,9 +162,9 @@
     "story": {
       "eyebrow": "Our Story",
       "title": "Born from a Belief That Events Should Be Extraordinary",
-      "p1": "Elara London Events was founded in 2012 by a team of hospitality and event professionals with one shared conviction: that truly exceptional events don't just happen — they are carefully, lovingly crafted.",
+      "p1": "Londrada Organizasyon was founded in 2012 by a team of hospitality and event professionals with one shared conviction: that truly exceptional events don't just happen — they are carefully, lovingly crafted.",
       "p2": "Over more than a decade, we have grown into one of London's most trusted luxury event partners, serving clients from over 30 countries across corporate, private, and international travel sectors.",
-      "p3": "Our name, Elara, is drawn from the moons of Jupiter — a nod to our ambition to reach further, illuminate more, and bring a celestial quality to every occasion we create."
+      "p3": "Our name carries the essence of what we do: events shaped in the heart of London, by the team who knows this city best. We know its venues, its rhythms, and its secrets — and that knowledge shows in every occasion we create."
     },
     "values": {
       "eyebrow": "What Guides Us",
@@ -191,7 +191,7 @@
         {
           "name": "Alexandra Reid",
           "title": "Founder & Creative Director",
-          "bio": "With 18 years in luxury hospitality across London and Europe, Alexandra founded Elara on the belief that events are the highest form of hospitality."
+          "bio": "With 18 years in luxury hospitality across London and Europe, Alexandra founded Londrada Organizasyon on the belief that events are the highest form of hospitality."
         },
         {
           "name": "Oliver Chen",
@@ -201,7 +201,7 @@
         {
           "name": "Amara Osei",
           "title": "Client Relations Director",
-          "bio": "Amara is the first voice our clients hear and the relationship they return to. Her warmth and expertise have made her indispensable to the Elara experience."
+          "bio": "Amara is the first voice our clients hear and the relationship they return to. Her warmth and expertise have made her indispensable to the Londrada Organizasyon experience."
         }
       ]
     }
@@ -215,15 +215,26 @@
     "info": {
       "expect_title": "What to Expect",
       "steps": [
-        { "label": "Within 24 hours", "text": "A personal response from our team acknowledging your enquiry" },
-        { "label": "Day 2–3", "text": "An introductory call to discuss your vision and requirements in detail" },
-        { "label": "Within 1 week", "text": "A bespoke preliminary proposal tailored to your brief" },
-        { "label": "Ongoing", "text": "A dedicated event manager as your single point of contact throughout" }
+        {
+          "label": "Within 24 hours",
+          "text": "A personal response from our team acknowledging your enquiry"
+        },
+        {
+          "label": "Day 2–3",
+          "text": "An introductory call to discuss your vision and requirements in detail"
+        },
+        {
+          "label": "Within 1 week",
+          "text": "A bespoke preliminary proposal tailored to your brief"
+        },
+        {
+          "label": "Ongoing",
+          "text": "A dedicated event manager as your single point of contact throughout"
+        }
       ],
       "contact_title": "Contact Us Directly",
-      "email": "info@elaralondon.com",
-      "phone": "+44 20 7946 0123",
-      "address": "12 Mayfair House, London W1K 4BT"
+      "email": "info@educante.com",
+      "phone": "+90 538 305 7552"
     },
     "form": {
       "title": "Enquiry Form",
@@ -235,13 +246,26 @@
       "phone_placeholder": "+44 or international",
       "event_type": "Event Type",
       "event_type_placeholder": "Select event type",
-      "event_types": ["Corporate", "Private Celebration", "Wedding", "Tour / Excursion", "Other"],
+      "event_types": [
+        "Corporate",
+        "Private Celebration",
+        "Wedding",
+        "Tour / Excursion",
+        "Other"
+      ],
       "date": "Preferred Date",
       "guests": "Number of Guests",
       "guests_placeholder": "Approx. guest count",
       "budget": "Budget Range",
       "budget_placeholder": "Select budget range",
-      "budgets": ["Under £10,000", "£10,000 – £25,000", "£25,000 – £50,000", "£50,000 – £100,000", "£100,000+", "To be discussed"],
+      "budgets": [
+        "Under £10,000",
+        "£10,000 – £25,000",
+        "£25,000 – £50,000",
+        "£50,000 – £100,000",
+        "£100,000+",
+        "To be discussed"
+      ],
       "special_requests": "Special Requests",
       "special_requests_placeholder": "Any specific requirements, themes, preferences, or questions...",
       "submit": "Send Enquiry",
@@ -269,9 +293,8 @@
     "quick_links": "Quick Links",
     "contact": "Contact",
     "email": "info@elaralondon.com",
-    "phone": "+44 20 7946 0123",
-    "address": "12 Mayfair House, London W1K 4BT",
-    "copyright": "© 2024 Elara London Events. All rights reserved.",
+    "phone": "+90 538 305 7552",
+    "copyright": "© 2026 Londrada Organizasyon. All rights reserved.",
     "location": "London, United Kingdom"
   }
 }

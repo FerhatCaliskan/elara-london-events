@@ -54,11 +54,9 @@ export default function Navbar() {
         <div className="max-w-7xl mx-auto px-6 md:px-12 lg:px-16 flex items-center justify-between h-20">
           <Link href="/" className="flex flex-col leading-none group">
             <span className={`font-cormorant text-2xl font-light tracking-wide transition-colors duration-300 ${logoColor}`}>
-              Elara
+              LONDRADA ORGANİZASYON
             </span>
-            <span className={`font-inter text-[9px] uppercase tracking-[0.3em] transition-colors duration-300 ${logoSubColor}`}>
-              London Events
-            </span>
+
           </Link>
 
           <nav className="hidden md:flex items-center gap-8" aria-label="Main navigation">
@@ -104,9 +102,8 @@ export default function Navbar() {
       )}
 
       <aside
-        className={`fixed top-0 right-0 h-full w-72 z-[60] bg-white shadow-2xl transform transition-transform duration-300 md:hidden ${
-          mobileOpen ? 'translate-x-0' : 'translate-x-full'
-        }`}
+        className={`fixed top-0 right-0 h-full w-72 z-[60] bg-white shadow-2xl transform transition-transform duration-300 md:hidden ${mobileOpen ? 'translate-x-0' : 'translate-x-full'
+          }`}
         aria-label="Mobile navigation"
       >
         <div className="flex items-center justify-between p-6 border-b border-border">

@@ -1,6 +1,6 @@
 import { useTranslations } from 'next-intl'
 import { Link } from '@/navigation'
-import { Instagram, Linkedin, Facebook, MapPin, Phone, Mail } from 'lucide-react'
+import { Instagram, Linkedin, Facebook, Phone, Mail } from 'lucide-react'
 
 const navLinks = [
   { href: '/', key: 'home' },
@@ -21,10 +21,7 @@ export default function Footer() {
           <div>
             <div className="mb-4">
               <span className="font-cormorant text-2xl text-white font-light tracking-wide block">
-                Elara
-              </span>
-              <span className="font-inter text-[9px] uppercase tracking-[0.3em] text-muted">
-                London Events
+                LONDRADA ORGANİZASYON
               </span>
             </div>
             <p className="font-inter text-sm leading-relaxed text-muted max-w-xs">
@@ -101,10 +98,6 @@ export default function Footer() {
                 >
                   {t('phone')}
                 </a>
-              </li>
-              <li className="flex items-start gap-3">
-                <MapPin size={15} className="text-gold mt-0.5 flex-shrink-0" />
-                <span className="font-inter text-sm text-muted">{t('address')}</span>
               </li>
             </ul>
           </div>

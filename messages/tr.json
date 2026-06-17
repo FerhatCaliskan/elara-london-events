@@ -64,19 +64,19 @@
       "title": "En İyisini Bekleyenlerin Güvendiği İsim",
       "items": [
         {
-          "quote": "Elara ile çalışmak gerçek anlamda zahmetsizdi. Yıllık galayı ekibimizin hâlâ konuştuğu muhteşem bir geceye dönüştürdüler. Her element özenle düşünülmüş ve kusursuz biçimde uygulanmıştı.",
+          "quote": "Londrada Organizasyon ile çalışmak gerçek anlamda zahmetsizdi. Yıllık galayı ekibimizin hâlâ konuştuğu muhteşem bir geceye dönüştürdüler. Her element özenle düşünülmüş ve kusursuz biçimde uygulanmıştı.",
           "name": "Sarah Mitchell",
           "role": "Kurumsal İlişkiler Direktörü",
           "company": "Barclays Londra"
         },
         {
-          "quote": "İlk görüşmeden son kadeheye kadar her an özenle düşünülmüştü. Elara, hayal ettiğimiz Londra düğününü bize yaşattı — ve bunun da ötesine geçti.",
+          "quote": "İlk görüşmeden son kadeheye kadar her an özenle düşünülmüştü. Londrada Organizasyon, hayal ettiğimiz Londra düğününü bize yaşattı — ve bunun da ötesine geçti.",
           "name": "James & Priya Nair",
           "role": "Özel Müşteriler",
           "company": "Mumbai & Londra"
         },
         {
-          "quote": "Dünyanın dört bir yanındaki DMC şirketleriyle çalışmış bir profesyonel olarak Elara'nın kendi liginde oynadığını rahatlıkla söyleyebilirim. Yerel bilgileri ve detaylara gösterdikleri özen eşsiz.",
+          "quote": "Dünyanın dört bir yanındaki DMC şirketleriyle çalışmış bir profesyonel olarak Londrada Organizasyon'un kendi liginde oynadığını rahatlıkla söyleyebilirim. Yerel bilgileri ve detaylara gösterdikleri özen eşsiz.",
           "name": "Marcus Weber",
           "role": "Kıdemli Etkinlik Yapımcısı",
           "company": "Koenig & Partner GmbH"
@@ -162,9 +162,9 @@
     "story": {
       "eyebrow": "Hikayemiz",
       "title": "Etkinliklerin Olağanüstü Olması Gerektiği İnancıyla Doğduk",
-      "p1": "Elara London Events, 2012 yılında konaklama ve etkinlik sektörünün deneyimli profesyonelleri tarafından tek bir ortak inançla kuruldu: gerçekten istisnai etkinlikler kendiliğinden oluşmaz — özenle, sevgiyle yaratılır.",
+      "p1": "Londrada Organizasyon, 2012 yılında konaklama ve etkinlik sektörünün deneyimli profesyonelleri tarafından tek bir ortak inançla kuruldu: gerçekten istisnai etkinlikler kendiliğinden oluşmaz — özenle, sevgiyle yaratılır.",
       "p2": "On yılı aşkın süre içinde kurumsal, özel ve uluslararası seyahat sektörlerinde 30'dan fazla ülkeden müşteriye hizmet veren, Londra'nın en güvenilir lüks etkinlik partnerlerinden biri haline geldik.",
-      "p3": "Adımız Elara, Jüpiter'in uydularından birinden geliyor — daha uzağa ulaşma, daha fazla aydınlatma ve yarattığımız her organizasyona gökyüzündeki bir kaliteyi taşıma hedefimizin simgesi."
+      "p3": "Adımız, sunduğumuz hizmetin özünü taşıyor: Londra'nın kalbinde, bu şehri en iyi tanıyan ekip tarafından tasarlanan organizasyonlar. Şehrin mekânlarını, ritmini ve sırlarını biliyoruz — ve bu bilgiyi her davette hissettiriyoruz."
     },
     "values": {
       "eyebrow": "Bizi Yönlendiren İlkeler",
@@ -191,7 +191,7 @@
         {
           "name": "Alexandra Reid",
           "title": "Kurucu & Yaratıcı Direktör",
-          "bio": "Londra ve Avrupa genelinde 18 yıllık lüks konaklama deneyimiyle Alexandra, etkinliklerin en yüksek konukseverlik formu olduğu inancıyla Elara'yı kurdu."
+          "bio": "Londra ve Avrupa genelinde 18 yıllık lüks konaklama deneyimiyle Alexandra, etkinliklerin en yüksek konukseverlik formu olduğu inancıyla Londrada Organizasyon'u kurdu."
         },
         {
           "name": "Oliver Chen",
@@ -201,7 +201,7 @@
         {
           "name": "Amara Osei",
           "title": "Müşteri İlişkileri Direktörü",
-          "bio": "Amara, müşterilerimizin ilk duyduğu ses ve döndükçe güvendiği ilişkidir. Sıcaklığı ve uzmanlığı, Elara deneyiminin vazgeçilmez bir parçası haline gelmiştir."
+          "bio": "Amara, müşterilerimizin ilk duyduğu ses ve döndükçe güvendiği ilişkidir. Sıcaklığı ve uzmanlığı, Londrada Organizasyon deneyiminin vazgeçilmez bir parçası haline gelmiştir."
         }
       ]
     }
@@ -215,15 +215,26 @@
     "info": {
       "expect_title": "Sizi Neler Bekliyor",
       "steps": [
-        { "label": "24 saat içinde", "text": "Ekibimizden talebinizi onaylayan kişisel bir yanıt" },
-        { "label": "2–3. gün", "text": "Vizyonunuzu ve gereksinimlerinizi detaylı konuşmak için tanışma görüşmesi" },
-        { "label": "1 hafta içinde", "text": "Brifinginize özel hazırlanmış ilk teklif taslağı" },
-        { "label": "Süreç boyunca", "text": "Tüm süreçte tek iletişim noktanız olan özel etkinlik yöneticiniz" }
+        {
+          "label": "24 saat içinde",
+          "text": "Ekibimizden talebinizi onaylayan kişisel bir yanıt"
+        },
+        {
+          "label": "2–3. gün",
+          "text": "Vizyonunuzu ve gereksinimlerinizi detaylı konuşmak için tanışma görüşmesi"
+        },
+        {
+          "label": "1 hafta içinde",
+          "text": "Brifinginize özel hazırlanmış ilk teklif taslağı"
+        },
+        {
+          "label": "Süreç boyunca",
+          "text": "Tüm süreçte tek iletişim noktanız olan özel etkinlik yöneticiniz"
+        }
       ],
       "contact_title": "Doğrudan Ulaşın",
-      "email": "info@elaralondon.com",
-      "phone": "+44 20 7946 0123",
-      "address": "12 Mayfair House, Londra W1K 4BT"
+      "email": "info@educante.com",
+      "phone": "+90 538 305 7552"
     },
     "form": {
       "title": "Talep Formu",
@@ -235,13 +246,26 @@
       "phone_placeholder": "+90 veya uluslararası",
       "event_type": "Etkinlik Türü",
       "event_type_placeholder": "Etkinlik türünü seçin",
-      "event_types": ["Kurumsal", "Özel Kutlama", "Düğün", "Tur / Gezi", "Diğer"],
+      "event_types": [
+        "Kurumsal",
+        "Özel Kutlama",
+        "Düğün",
+        "Tur / Gezi",
+        "Diğer"
+      ],
       "date": "Tercih Edilen Tarih",
       "guests": "Misafir Sayısı",
       "guests_placeholder": "Tahmini misafir sayısı",
       "budget": "Bütçe Aralığı",
       "budget_placeholder": "Bütçe aralığını seçin",
-      "budgets": ["10.000 £ altı", "10.000 – 25.000 £", "25.000 – 50.000 £", "50.000 – 100.000 £", "100.000 £ ve üzeri", "Görüşülecek"],
+      "budgets": [
+        "10.000 £ altı",
+        "10.000 – 25.000 £",
+        "25.000 – 50.000 £",
+        "50.000 – 100.000 £",
+        "100.000 £ ve üzeri",
+        "Görüşülecek"
+      ],
       "special_requests": "Özel İstekler",
       "special_requests_placeholder": "Özel gereksinimler, tema tercihleri veya sorularınız...",
       "submit": "Talebi Gönder",
@@ -269,9 +293,8 @@
     "quick_links": "Hızlı Bağlantılar",
     "contact": "İletişim",
     "email": "info@elaralondon.com",
-    "phone": "+44 20 7946 0123",
-    "address": "12 Mayfair House, Londra W1K 4BT",
-    "copyright": "© 2024 Elara London Events. Tüm hakları saklıdır.",
+    "phone": "+90 538 305 7552",
+    "copyright": "© 2026 Londrada Organizasyon.. Tüm hakları saklıdır.",
     "location": "Londra, Birleşik Krallık"
   }
 }

@@ -2,7 +2,7 @@
 
 import { useState } from 'react'
 import { useTranslations } from 'next-intl'
-import { Clock, Mail, Phone, MapPin, CheckCircle2 } from 'lucide-react'
+import { Clock, Mail, Phone, CheckCircle2 } from 'lucide-react'
 import MotionSection from '@/components/MotionSection'
 
 type FormData = {
@@ -97,8 +97,7 @@ export default function ReservationPage() {
   }
 
   const inputClass = (field: keyof FormData) =>
-    `w-full font-inter text-sm text-ink placeholder-muted bg-white border px-4 py-3 focus:outline-none focus:border-gold transition-colors duration-200 ${
-      errors[field] ? 'border-red-400' : 'border-border'
+    `w-full font-inter text-sm text-ink placeholder-muted bg-white border px-4 py-3 focus:outline-none focus:border-gold transition-colors duration-200 ${errors[field] ? 'border-red-400' : 'border-border'
     }`
 
   return (
@@ -164,10 +163,6 @@ export default function ReservationPage() {
                   <a href={`tel:${t('info.phone')}`} className="font-inter text-sm text-ink hover:text-gold transition-colors">
                     {t('info.phone')}
                   </a>
-                </li>
-                <li className="flex items-start gap-3">
-                  <MapPin size={15} className="text-gold flex-shrink-0 mt-0.5" />
-                  <span className="font-inter text-sm text-ink">{t('info.address')}</span>
                 </li>
               </ul>
             </MotionSection>

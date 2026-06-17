@@ -7,7 +7,7 @@ import MotionSection from '@/components/MotionSection'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Elara London Events — Luxury Event Management & DMC',
+  title: 'Londrada Organizasyon — Lüks Etkinlik Yönetimi & DMC',
 }
 
 const serviceImages = [

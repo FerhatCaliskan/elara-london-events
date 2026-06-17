@@ -18,11 +18,11 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: {
-    default: 'Elara London Events — Luxury Event Management & DMC',
-    template: '%s | Elara London Events',
+    default: 'Londrada Organizasyon — Lüks Etkinlik Yönetimi & DMC',
+    template: '%s | Londrada Organizasyon',
   },
   description:
-    "Elara London Events — London's most trusted luxury event management and DMC partner. Corporate events, private celebrations, venue sourcing, and bespoke experiences.",
+    "Londrada Organizasyon — Londra'nın en güvenilir lüks etkinlik yönetimi ve DMC partneri. Kurumsal etkinlikler, özel kutlamalar, mekân bulma ve özel tasarlanmış deneyimler.",
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
